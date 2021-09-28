@@ -1,0 +1,16 @@
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\bin\Debug\net5.0\Task1.exe
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\bin\Debug\net5.0\Task1.deps.json
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\bin\Debug\net5.0\Task1.dll
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\bin\Debug\net5.0\ref\Task1.dll
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\bin\Debug\net5.0\Task1.pdb
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.dll
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\ref\Task1.dll
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.pdb
+E:\aspnetb6-test3-main\aspnetb6-test3-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
